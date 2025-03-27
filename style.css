@@ -24,6 +24,7 @@ body{
     padding: 20px;
     gap: 20px;
     flex-grow: 1;
+    flex-wrap: wrap;
 }
 
 .image-container-s1 img{
