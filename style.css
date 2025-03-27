@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0; 
+}
+
+body{
+    font-family: "Gabarito", sans-serif;
+    background-color: bisque;
+}
+
+.header{
+    padding: 10px;
+    margin: 10px;
+    border-bottom: solid black 2px;
+}
+
+.header__title{
+    text-align: center;
+}
+
+.image-container-s1,.image-container-s2{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    gap: 20px;
+    flex-grow: 1;
+}
+
+.image-container-s1 img{
+    width: 200px;
+    height: 200px;
+    border: solid black 2px;
+}
+
+.image-container-s2 img{
+    width: 200px;
+    height: 200px;
+    border: solid black 2px;
+}
+
+
+
+
+
+
